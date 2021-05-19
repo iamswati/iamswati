@@ -21,7 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamswati&show_icons=true&locale=en&layout=compact" alt="iamswati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamswati&show_icons=true&locale=en" alt="iamswati" /></p>
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamswati&show_icons=true&locale=en" alt="iamswati" /></p>
+</div>
 
 
 
