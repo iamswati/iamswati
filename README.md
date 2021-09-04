@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswati&label=Profile%20views&color=0e75b6&style=flat" alt="iamswati" /> </p>
 
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Global Terrorism Data**
 
 - 🌱 I’m currently learning **Git**
 
