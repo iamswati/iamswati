@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswati&label=Profile%20views&color=0e75b6&style=flat" alt="iamswati" /> </p>
 
-- 🔭 I’m currently working on **Global Terrorism Data**
+- 🔭 I’m currently working on **Data Analysis on Ethereum Dataset**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamswati](https://github.com/iamswati)
 
