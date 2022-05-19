@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can also check out my portfolio at **[My_portfolio.py](https://share.streamlit.io/iamswati/my-portfolio/main/My_portfolio.py)**
 
-- 📫 Reach me at **swatigulati@outlook.in**
+- 📫 Reach me at **sg131019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
