@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Gulati😊</h1>
-<h3 align="center">AI Intern at IBM | Data Analyst | Web Developer | Data Science | Self-Taught Programmer | Continous Learner</h3>
+<h3 align="center">Data Analyst | Web Developer | Data Science | Self-Taught Programmer | Continous Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswati&label=Profile%20views&color=0e75b6&style=flat" alt="iamswati" /> </p>
 
