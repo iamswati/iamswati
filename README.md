@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development & Data Science**
 
-- 👨‍💻 You can also check out my portfolio at **[My_portfolio.py](https://iamswati.github.io/Resume.pdf)**
+- 👨‍💻 You can also check out my portfolio at **[My_portfolio.py](https://tinyurl.com/swati-portfolio)**
 
 - 📫 Reach me at **swatigulati333@gmail.com**
 
